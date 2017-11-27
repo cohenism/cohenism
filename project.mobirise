@@ -64,7 +64,7 @@
           },
           "title": "Cohenism Consulting<br>",
           "text": "Good companies improve lives. Great companies improve the world. <br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box5-3\" data-toolbar=\"-mbrBtnMove\">MISSION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STRATEGY</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box5-3\" data-toolbar=\"-mbrBtnMove\">MISSION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#slider-d\" data-toolbar=\"-mbrBtnMove\">STRATEGY</a>",
           "_tags": [
             "Theme"
           ],
@@ -72,7 +72,7 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "text-align": "left"
             },
             ".mbr-section-title": {
@@ -96,7 +96,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header1-1\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header1-1\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -212,7 +212,7 @@
           },
           "title": "<br>IMPROVING YOUR BUSNINESS WHILE SOCIAL INVESTING",
           "text": "Your profits are <b>not one dimensional</b> and profits are not the only thing you want get out of your business's value proposition.<br><br>Everyone knows that the bigest players in an industry commit vast resources into their corporate philanthropy,&nbsp;Sector Blending, Impact Investing. &nbsp;-<br>as <b>s<span style=\"font-style: italic;\">ocial value</span>&nbsp;</b>changes the way business create, interact, and navigate, a careful knowledge of how businesses exploit their position to increase their long term productivity, profits, and customer commitment&nbsp;<br><br><i><b>Cohenism</b></i> is a concept that with careful guidance, all businesses can reap the rewards of innovation through listening and reacting to those issues at the heart of investors, consumers, and creators.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#slider-d\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -406,7 +406,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header1-1\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header1-1\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
