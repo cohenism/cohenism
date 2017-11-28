@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "COHENISM CONSULTING",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -266,7 +266,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "text1": "<strong>Address</strong><br>1100 Clarkson St.<br>Denver CO, 80218<br>USA<br><br>\n<strong>Contacts</strong><br>\nEmail: cohenismconsulting@gmail.com<br>\nPhone: +1 (720) 517-5269<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b>Parters</b></li></ul>",
+          "text2": "",
           "form": {
             "title": "MESSAGE",
             "action": "cohenismconsulting@gmail.com",
@@ -299,7 +299,15 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-4"
+          "_anchor": "contacts4-4",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_params": {
@@ -342,8 +350,8 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -356,7 +364,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -371,7 +379,7 @@
               {
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -380,7 +388,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -389,7 +397,12 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-d"
+          "_anchor": "slider-d",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -492,7 +505,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "text1": "<strong>Address</strong><br>1100 Clarkson St.<br>Denver CO, 80218<br>USA<br><br>\n<strong>Contacts</strong><br>\nEmail: cohenismconsulting@gmail.com<br>\nPhone: +1 (720) 517-5269<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b>Parters</b></li></ul>",
+          "text2": "",
           "form": {
             "title": "MESSAGE",
             "action": "Cohenism@gmail.com",
@@ -525,7 +538,15 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-b"
+          "_anchor": "contacts4-b",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     }

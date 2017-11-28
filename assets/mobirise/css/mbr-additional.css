@@ -742,6 +742,15 @@ h6,
 #content5-9 p {
   color: #fff;
 }
+#contacts4-4 P {
+  color: #efefef;
+}
+#contacts4-4 UL {
+  color: #efefef;
+}
+#slider-d P {
+  color: #efefef;
+}
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -802,4 +811,10 @@ h6,
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#contacts4-b P {
+  color: #efefef;
+}
+#contacts4-b UL {
+  color: #efefef;
 }
