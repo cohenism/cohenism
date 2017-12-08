@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "COHENISM CONSULTING",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,8 +23,8 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 15,
-    "versionPublish": "4.4.1",
+    "uniqCompNum": 20,
+    "versionPublish": "4.5.1",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
@@ -64,7 +64,7 @@
           },
           "title": "Cohenism Consulting<br>",
           "text": "Good companies improve lives. Great companies improve the world. <br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box5-3\" data-toolbar=\"-mbrBtnMove\">MISSION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page1.html#slider-d\" data-toolbar=\"-mbrBtnMove\">STRATEGY</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box5-3\" data-toolbar=\"-mbrBtnMove\">MISSION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STRATEGY</a>",
           "_tags": [
             "Theme"
           ],
@@ -82,13 +82,52 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2698-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "My Business can create new <i>Social Value</i>:",
+          "caption": "<p>Transforming Individuals, Communities, the World ➡&nbsp;<span style=\"font-size: 1.07rem;\">Social Value Creation ➡&nbsp;</span><span style=\"font-size: 1.07rem;\">Pride and Bragging Rights ➡ New Value Propositions ➡ </span><b style=\"font-size: 1.07rem;\"><i>Growth</i></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-9"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -96,7 +135,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html#slider-d\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"true\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"true\">NONPROFITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"true\">SOCIAL ENTREPRENEURS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">HOME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -211,45 +250,18 @@
             }
           },
           "title": "<br>IMPROVING YOUR BUSNINESS WHILE SOCIAL INVESTING",
-          "text": "Your profits are <b>not one dimensional</b> and profits are not the only thing you want get out of your business's value proposition.<br><br>Everyone knows that the bigest players in an industry commit vast resources into their corporate philanthropy,&nbsp;Sector Blending, Impact Investing. &nbsp;-<br>as <b>s<span style=\"font-style: italic;\">ocial value</span>&nbsp;</b>changes the way business create, interact, and navigate, a careful knowledge of how businesses exploit their position to increase their long term productivity, profits, and customer commitment&nbsp;<br><br><i><b>Cohenism</b></i> is a concept that with careful guidance, all businesses can reap the rewards of innovation through listening and reacting to those issues at the heart of investors, consumers, and creators.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#slider-d\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "Your profits are <b>not one dimensional</b> and profits are not the only thing you want get out of your business's value proposition.<br><br>Everyone also knows that the bigest players in an industry commit vast resources into their corporate philanthropy, impact investing, and blending sectors to create financial and social value.<br><br>As the incresed positive perception of&nbsp;<b>s<span style=\"font-style: italic;\">ocial value</span>&nbsp;</b>changes the way business create, interact, and navigate, careful planning of how businesses exploit their position to increase their long term productivity, profits, and customer commitment is crucial.&nbsp;<br><br><i><b>Cohenism</b></i> is a platform that actuates a concept that with careful guidance, all businesses can reap the rewards of innovation through listening and reacting to those issues at the heart of consumers, investors, and creators.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-3"
-        },
-        {
+          "_anchor": "msg-box5-3",
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            "P": {
+              "color": "#28324e"
             }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2698-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Navigate using your best form",
-          "caption": "<p>\"Money derives from value and value derives from helping people.\"&nbsp;<span style=\"font-size: 1.07rem;\">-Sam Ovens, Entrepreneur</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-9"
+          }
         },
         {
           "_params": {
@@ -322,7 +334,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 COHENISM CONSULTING.",
+          "text": "Copyright (c) 2017 COHENISM CONSULTING",
           "_tags": [
             "Theme"
           ],
@@ -335,83 +347,49 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Big Ideas Downsized",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_params": {
-            "autoplay": true,
-            "fullScreen": true,
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "What large companies already know:",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Social responsibility is critical for marketing, key stakeholder engagement, revenue growth, customer commitment and expansion, taxation relief, and much more. <br><br>And as a business owner, you can get a new added value both as an entrepreneur and a creator: focus on what is socially significant to you, your customers and employees, and the communities you live and breath within.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Big Ideas</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Big responsibility can be yours:<br>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Learn about the&nbsp;<a href=\"https://www.ibm.com/ibm/responsibility/initiatives.html\" target=\"_blank\">IBM</a>&nbsp;program focused on blah blah<br>CORP says that x increase impact blah blah how important CSR is<br>Whan a corporation wants to pivot, they start with an idea: Corporate Social Responsibility (CSR) and will integrate social value propostitions directly into their<a href=\"http://www.toms.com\" target=\"_blank\"> business models</a>.&nbsp;<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "articleLayout": false,
+          "title": "What large companies already know:",
+          "caption": "<p><span style=\"font-size: 1.07rem;\">Whan a business wants to pivot or grow, it's very productive to incorporate a basic concept: Corporate Social Responsibility (CSR). With a team focused on measured outcome of social value, Cohenism will tailors integration of social value propostitions directly into your business model so you reep the rewards - just like the big corps! </span></p><p><span style=\"font-size: 1.07rem;\"><b>Dozens of options exist</b>, from creative, fun, and rewarding point of sale philanthropy to employee programs for choosing the social missions they want to support to the SOCIAL SEAL.</span></p><p><span style=\"font-size: 1.07rem;\">Cohenism is a platform that's as flexible as your business already needs to be every day. &nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">Social responsibility is critical for marketing, key stakeholder engagement, revenue growth, customer commitment and expansion, accounting &amp; taxation, and much more.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">As a current or new business, you can get a new added value as a social entrepreneur within your current context. Cohenism shows you how to best focus on what is socially significant to you, your customers and employees, along with the community you live and breath within. BUT, KEEP YOUR BUSSINESS STRUCTURED AS IT IS!</span></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_anchor": "slider-d",
-          "_styles": {
-            "P": {
-              "color": "#efefef"
-            }
-          }
+          "_name": "content5",
+          "_anchor": "content5-j"
         },
         {
           "_inherit": "menu",
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -419,7 +397,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html#slider-d\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"true\">MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"true\">NONPROFITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"true\">SOCIAL ENTREPRENEURS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">HOME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -547,6 +525,208 @@
               "color": "#efefef"
             }
           }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Coming Soon",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "MORE COMING SOON!",
+          "text": "Cohenism is rapidly developing, thus prioritizing the needs of our clients before web content creation. Check back soon for more!&nbsp;<br><br>Winter, 2018",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-i"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">HOME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#slider-d\" aria-expanded=\"false\">BIG IDEAS DOWNSIZED</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"index.html#header1-1\">HOME</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-206x256.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COHENISM CONSULTING</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "text1": "<strong>Address</strong><br>1100 Clarkson St.<br>Denver CO, 80218<br>USA<br><br>\n<strong>Contacts</strong><br>\nEmail: cohenismconsulting@gmail.com<br>\nPhone: +1 (720) 517-5269<br>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "cohenismconsulting@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts4-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 COHENISM CONSULTING",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-h"
         }
       ]
     }
